@@ -8,18 +8,16 @@ Hello, I'm Yoga in Taiwan! As passionate front-end developer of web, I like to l
 ## 🧰 Languages and Tools
 * HTML
 * CSS3, SASS
-* UI Framework, e.g. Material UI, Bootstrap
-* CSS Framework, e.g. Tailwindcss
 * Javascript, Typescript
-* React, Redux, React-router-dom
+* React, Redux, React-router-dom, Redux Toolkit, RTK Query
+* Vue, Vuex, Pinia
+* UI Framework, e.g. Material UI, Vuetify, Bootstrap
+* CSS Framework, e.g. Tailwindcss
 * Figma, Ilustrator
 * Version Control, e.g. Git
 
 ## 📁 Projects
-* [Simple Twitter](https://jamielolo.github.io/ac-simple-twitter/)
-* [Rent Helper](https://y0000ga.github.io/rent-helper/)
 * [Dear Marcy Website](https://github.com/y0000ga/marcy-website)
 
 ## 💬 Contact me
-* [Medium](https://medium.com/@shiusun246)
 * [Linkedin](https://www.linkedin.com/in/%E4%BA%8E%E5%AE%B6-%E9%BB%83-728918220/)
