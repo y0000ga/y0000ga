@@ -15,9 +15,11 @@ Hello, I'm Yoga in Taiwan! As passionate front-end developer of web, I like to l
 * CSS Framework, e.g. Tailwindcss
 * Figma, Ilustrator
 * Version Control, e.g. Git
+* Node.js + Express for RESTful API
 
 ## 📁 Projects
-* [Dear Marcy Website](https://github.com/y0000ga/marcy-website)
+* [貓咪競選網站](https://github.com/y0000ga/campaign-website)
+* [活動票務系統 (後端專案)](https://github.com/Roger13579/TicketSystem-backend)
 
 ## 💬 Contact me
-* [Linkedin](https://www.linkedin.com/in/%E4%BA%8E%E5%AE%B6-%E9%BB%83-728918220/)
+* 6jh214c@gmail.com
