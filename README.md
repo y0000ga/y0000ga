@@ -9,7 +9,7 @@ Hello, I'm Yoga in Taiwan! As passionate front-end developer of web, I like to l
 * HTML
 * CSS3, SASS
 * Javascript, Typescript
-* React, Redux, React-router-dom, Redux Toolkit, RTK Query
+* Next.js, React, Redux, Redux Toolkit, RTK Query
 * Vue, Vuex, Pinia
 * UI Framework, e.g. Material UI, Vuetify, Bootstrap
 * CSS Framework, e.g. Tailwindcss
