@@ -1,5 +1,3 @@
-<div align="center"><img width="50%" src="https://user-images.githubusercontent.com/111579529/215337746-e09c3b76-ee7b-488c-860d-8479d47291ab.gif" alt="introduction"></div>
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=y0000ga" alt="my github data" /></div>
 
 ## 🌊 Yoga #y000ga
