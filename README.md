@@ -3,6 +3,12 @@
 ## 🌊 Yoga #y000ga
 Hello, I'm Yoga in Taiwan! As passionate front-end developer of web, I like to learning new technology & skill and have fun 🥳 
 
+## 📁 Projects
+* [貓咪競選網站](https://github.com/y0000ga/campaign-website)
+* [活動票務系統 (後端專案)](https://github.com/Roger13579/TicketSystem-backend)
+* [馬克信箱宣傳網站](https://github.com/y0000ga/marcy-website)
+* [Useful UI](https://github.com/y0000ga/usefului)
+
 ## 🧑‍🦲 Skill
 
 ### 📋 Language
@@ -35,12 +41,6 @@ Hello, I'm Yoga in Taiwan! As passionate front-end developer of web, I like to l
 ### 💾 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📁 Projects
-* [貓咪競選網站](https://github.com/y0000ga/campaign-website)
-* [活動票務系統 (後端專案)](https://github.com/Roger13579/TicketSystem-backend)
-* [馬克信箱宣傳網站](https://github.com/y0000ga/marcy-website)
-* [Useful UI](https://github.com/y0000ga/usefului)
 
 ## 💬 Contact me
 * 6jh214c@gmail.com
