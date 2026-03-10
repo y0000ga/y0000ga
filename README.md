@@ -81,5 +81,3 @@ Features
 - Source tracking and metadata
 - Prompt pinning
 - Markdown / JSON export
-
-Tech
